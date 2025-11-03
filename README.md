@@ -24,7 +24,8 @@ My project **[Save My Semester](https://studio--studio-7100783120-75122.us-centr
 
 ### 🌐 Frontend
 - HTML, CSS, JavaScript  
-- React.js, Tailwind CSS  
+- React.js, Next.js, Tailwind CSS  
+- Flutter (Cross-Platform Mobile Development)
 - WordPress, SEO, UI Design
 
 ### ⚙️ Backend
@@ -59,7 +60,6 @@ My project **[Save My Semester](https://studio--studio-7100783120-75122.us-centr
 
 📎 **Portfolio:** [itslewiski.vercel.app](https://itslewiski.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/itslewiski](https://www.linkedin.com/in/itslewiski/)  
-📫 **Email:** *(optional — if you want to include one)*  
 
 ---
 
