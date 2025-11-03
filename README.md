@@ -1,6 +1,10 @@
-                                                                              # 👋 Hey there, I'm Lewiski
+<div align="center">
 
-                                             💻 **Software Engineer | Full-Stack Developer | SaaS Builder | Growth-Minded Innovator**
+# 👋 Hey there, I'm Lewiski
+
+💻 **Software Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;SaaS Builder&nbsp;|&nbsp;Growth-Minded Innovator**
+
+</div>
 
 ---
 
