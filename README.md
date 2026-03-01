@@ -1,75 +1,73 @@
 <div align="center">
 
-# 👋 Hey there, I'm Lewiski
+# Hey there, I'm Lewiski
 
-💻 **Software Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;SaaS Builder&nbsp;|&nbsp;Growth-Minded Innovator**
+**Software Engineer | Full-Stack Developer | SaaS Builder | Growth-Minded Innovator**
+
+[![GitHub followers](https://img.shields.io/github/followers/Lewiski101?style=social)](https://github.com/Lewiski101)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itslewiski?style=social)](https://twitter.com/itslewiski)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Lewiski**, a **Software Engineering student** with a lifelong passion for technology.  
-My journey started back in **5th grade**, inspired by a Nickelodeon show called *“Game Shakers.”*  
-They made creating games look fun and easy — and that moment sparked a dream that’s been driving me ever since.
+My journey started in **5th grade**, inspired by *“Game Shakers”*—that spark has turned into a mission to build scalable, impactful applications.
 
-Over the years, I’ve evolved from curiosity to craft — building websites, experimenting with new stacks, and launching my own SaaS.  
-My project **[Save My Semester](https://studio--studio-7100783120-75122.us-central1.hosted.app/)** was born from my desire to help students learn smarter and manage their coursework better — an evolution of my earlier project, *MMU Genius*.
-
-🎯 I’m passionate about:
-- Building **useful digital tools** that make life easier
-- Turning **ideas into scalable applications**
-- Consistently **learning, growing, and sharing knowledge**
+Over the years, I’ve evolved from curiosity to craft—building websites, experimenting with new stacks, and launching my own SaaS. My project **[Save My Semester](https://savemysemester.vercel.app/)** is the latest evolution of that drive.
 
 ---
 
-## 🧠 What I Know
+## What I Know
 
-### 🌐 Frontend
-- HTML, CSS, JavaScript  
-- React.js, Next.js, Tailwind CSS  
-- Flutter (Cross-Platform Mobile Development)
-- WordPress, SEO, UI Design
+### Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter,figma" />
+</p>
 
-### ⚙️ Backend
-- Node.js, Express.js  
-- Firebase, Supabase  
-- REST APIs & API Integration
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postman" />
+</p>
 
-### 💾 Programming Languages
-- Python 🐍  
-- C++ ⚙️  
-- C 💡  
-- Java ☕
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
-### 🛠 Tools & Technologies
-- Git & GitHub  
-- VS Code  
-- Vercel  
-- Firebase Hosting  
-- Canva, CapCut (Video Editing)  
-- Logo Design
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
 
 ---
 
-## 🌱 Current Focus
-- Advancing my **backend development** skills  
-- Scaling my SaaS project *Save My Semester*  
-- Building a **personal brand** around tech, design, and innovation
+## GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Lewiski101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lewiski's GitHub Stats" />
+</p>
 
 ---
 
-## 🌍 Connect With Me
-
-📎 **Portfolio:** [itslewiski.vercel.app](https://itslewiski.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/itslewiski](https://www.linkedin.com/in/itslewiski/)  
+## Current Focus
+* Scaling **Save My Semester** to help more students.
+* Deep diving into **Backend Architecture** and System Design.
+* Growing a personal brand around **Tech and Design**.
 
 ---
 
-## ✨ Fun Fact
+## Connect With Me
+<p align="left">
+<a href="https://itslewiski.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="https://linkedin.com/in/itslewiski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/@wiskieditz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+## Fun Fact
 > I built my first website at 13 — and I’ve been hooked ever since.
 
----
-
-⭐ *"Consistency beats motivation. Keep building."*
+*"Consistency beats motivation. Keep building."*
