@@ -4,8 +4,7 @@
 
 **Software Engineer | Full-Stack Developer | SaaS Builder | Growth-Minded Innovator**
 
-[![GitHub followers](https://img.shields.io/github/followers/Lewiski101?style=social)](https://github.com/Lewiski101)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itslewiski?style=social)](https://twitter.com/itslewiski)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Full-Stack+Web+Developer;SaaS+Innovator;Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -24,29 +23,22 @@ Over the years, I’ve evolved from curiosity to craft—building websites, expe
 
 ### Frontend & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter,figma&theme=dark" />
 </p>
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postman&theme=dark" />
 </p>
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" />
 </p>
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
-
----
-
-## GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Lewiski101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lewiski's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark" />
 </p>
 
 ---
