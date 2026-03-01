@@ -4,7 +4,7 @@
 
 **Software Engineer | Full-Stack Developer | SaaS Builder | Growth-Minded Innovator**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Full-Stack+Web+Developer;SaaS+Innovator;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42b883&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Full-Stack+Web+Developer;SaaS+Innovator;Always+Learning" alt="Typing SVG" />
 
 </div>
 
