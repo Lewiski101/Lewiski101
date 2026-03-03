@@ -60,6 +60,6 @@ Over the years, I’ve evolved from curiosity to craft—building websites, expe
 ---
 
 ## Fun Fact
-> I built my first website at 13 — and I’ve been hooked ever since.
+> I built my first website at 13 — and I’ve been hooked ever since
 
-*"Consistency beats motivation. Keep building."*
+*"Consistency beats motivation. Keep building."*    
