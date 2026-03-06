@@ -46,7 +46,7 @@ Over the years, I’ve evolved from curiosity to craft—building websites, expe
 ## Current Focus
 * Scaling **Save My Semester** to help more students.
 * Deep diving into **Backend Architecture** and System Design.
-* Growing a personal brand around **Tech and Design**.
+* Growing a personal brand around **Tech and Design**
 
 ---
 
